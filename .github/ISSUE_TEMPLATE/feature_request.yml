@@ -64,10 +64,9 @@ body:
       label: Priority
       description: How important is this feature to you?
       options:
-        - Critical - Blocking my work
-        - High - Very important
-        - Medium - Would be nice to have
-        - Low - Just an idea
+        - High - Essential for my workflow
+        - Medium - Would significantly improve my work
+        - Low - Nice to have
     validations:
       required: true
 
@@ -93,7 +92,7 @@ body:
       placeholder: Any additional details that might help us understand your request...
 
   - type: checkboxes
-    id: terms
+    id: confirmation
     attributes:
       label: Confirmation
       description: Please confirm the following before submitting.

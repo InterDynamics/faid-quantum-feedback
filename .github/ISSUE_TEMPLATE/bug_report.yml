@@ -99,7 +99,7 @@ body:
       placeholder: Any additional information that might help us understand the issue...
 
   - type: checkboxes
-    id: terms
+    id: confirmation
     attributes:
       label: Confirmation
       description: Please confirm the following before submitting.
