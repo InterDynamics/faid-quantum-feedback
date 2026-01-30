@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/InterDynamics/faid-quantum-feedback/discussions
+    about: Ask questions, share ideas, or engage with the community
+  - name: 📚 Documentation
+    url: https://github.com/InterDynamics/faid-quantum-feedback
+    about: Check out our documentation and README for more information
