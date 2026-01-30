@@ -19,7 +19,7 @@ Welcome to the **FAID Quantum Feedback** repository! This is the public hub wher
 
 ## 🔍 About FAID Quantum
 
-FAID Quantum is a web application designed for advanced data collection and management. We're committed to continuously improving the platform based on your feedback and needs.
+FAID Quantum fatigue assessment software is a powerful analytical tool, used to identify fatigue exposure and support the management of hours of work within an organisation’s fatigue management plan.
 
 ---
 
