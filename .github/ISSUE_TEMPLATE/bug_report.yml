@@ -101,8 +101,8 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our community guidelines.
+      label: Confirmation
+      description: Please confirm the following before submitting.
       options:
         - label: I have searched for similar issues and didn't find any duplicates
           required: true
